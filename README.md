@@ -3,6 +3,7 @@
 Development of a distributed system in C that emulates Operating System functions, designed to run coordinately across different machines connected via a network. The project includes the implementation of a Kernel for process scheduling, a Main Memory management module (segmentation/paging), and an I/O module with a custom Filesystem. The solution utilizes Socket communication for network module interconnection, managing thread and resource synchronization through semaphores and mutexes.
 
 [📄 View Project Requirements](https://github.com/nvelascopinto/TP-SSOO-1C2024/blob/main/Enunciado.pdf)
+
 [📄 View Acceptance Tests](https://github.com/nvelascopinto/TP-SSOO-1C2024/blob/main/Pruebas.pdf)
 
 ## Technologies
