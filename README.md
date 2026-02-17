@@ -12,7 +12,7 @@ Development of a distributed system in C that emulates Operating System function
 - **Networking:** Sockets, Client-Server Architecture
 - **Tools:** Valgrind, GDB, Makefile
 
-## Grupo de trabajo
+## Development Team
 
 - Nicole Velasco [@nvelascopinto](https://github.com/nvelascopinto)
 - Joaquín Rossi [@Joaquinnicolasrossi](https://github.com/Joaquinnicolasrossi)
