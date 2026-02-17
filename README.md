@@ -10,7 +10,7 @@ Development of a distributed system in C that emulates Operating System function
 - **Concurrency:** POSIX Threads (pthreads), Semaphores, Mutexes
 - **Networking:** Sockets, Client-Server Architecture
 - **Tools:** Valgrind, GDB, Makefile
-- 
+
 ## Grupo de trabajo
 
 - Nicole Velasco [@nvelascopinto](https://github.com/nvelascopinto)
